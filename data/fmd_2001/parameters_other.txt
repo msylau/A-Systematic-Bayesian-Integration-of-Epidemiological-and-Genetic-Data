@@ -1,0 +1,2 @@
+n,kernek_type,dimen_x,dimen_y,t_max,unassigned_time,seed,n_seq,n_base,sample_range
+15,exp_kernel,2000,2000,105,9e+100,577,20,8193,3
