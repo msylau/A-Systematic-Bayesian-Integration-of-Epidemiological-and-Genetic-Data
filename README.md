@@ -16,4 +16,3 @@ Data and C++ scripts for the paper
 
 Read the comments at the beginning of phylo_seir_fmd_inference.cpp first; the header .h file is also useful for understanding the code/function structures.
 
-Welcomed to use/modify the code as long as the paper is properly cited.
